@@ -1,0 +1,1 @@
+const e='{"documentCount":1,"nextId":1,"documentIds":{"0":"/vitefest-docs/zh_hans/userManual.html#使用说明书"},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{"0":[1,1,2]},"averageFieldLength":[1,1,2],"storedFields":{"0":{"title":"使用说明书","titles":[]}},"dirtCount":0,"index":[["未完待续",{"2":{"0":1}}],["使用说明书",{"0":{"0":1}}]],"serializationVersion":2}';export{e as default};
